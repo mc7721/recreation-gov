@@ -1,0 +1,43 @@
+{
+    "name": "Recreation.gov",
+    "description": "Recreation.gov is the go-to trip planning resource for federal recreation adventures. A dozen federal agencies participate with Recreation.gov to offer more than 90,000 reservable sites and activities.  Visitors to Recreation.gov plan outdoor adventure...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/recreation-gov.png",
+    "tags": [
+        "activities",
+        "have api",
+        "profile",
+        "recreation",
+        "televisions"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/recreation-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Recreation.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/recreation-gov.png",
+            "humanURL": "http:\/\/www.recreation.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/recreation-gov-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/recreation-gov"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.recreation.gov\/"
+        }
+    ]
+}
